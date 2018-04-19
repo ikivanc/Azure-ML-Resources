@@ -1,6 +1,8 @@
 # Azure ML/AI Resources
 
 ## Useful Python Courses
+
+- Data manipulation experience with Python such as the Intro to Python for Data Science [Free Online Course](https://www.datacamp.com/courses/intro-to-python-for-data-science) and/or [numpy Info Here - Chapter 2](https://notebooks.azure.com/jakevdp/libraries/PythonDataScienceHandbook/tree/notebooks?page=2)
 - Visualization experience with Python such as the Intermediate Python for Data Science [Free Online Course](https://www.datacamp.com/courses/intermediate-python-for-data-science) and/or [matplotlib Info Here - Chapter 4](https://notebooks.azure.com/jakevdp/libraries/PythonDataScienceHandbook/tree/notebooks?page=4)
 - Jupyter notebook knowledge [Doc](http://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Notebook%20Basics.html)
 
