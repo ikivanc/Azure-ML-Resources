@@ -1,5 +1,10 @@
 # Azure ML/AI Resources
 
+## Microsoft & Machine Learning / Artificial Intelligence Presentation
+In this presentation you'll find Machine Learning / Deep Learning tools and services from Microsoft. Including Azure Machine Learning Workbench, Azure Notebooks, Azure Data Science Virtual Machines and more. 
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/fpKYuHdjHKlaAT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ikivanc/microsoft-machine-learning-artificial-intelligence" title="Microsoft &amp; Machine Learning / Artificial Intelligence" target="_blank">Microsoft &amp; Machine Learning / Artificial Intelligence</a> </strong> from <strong><a href="https://www.slideshare.net/ikivanc" target="_blank">İbrahim KIVANÇ</a></strong> </div>
+
 ## Useful Python Courses
 
 - Data manipulation experience with Python such as the Intro to Python for Data Science [Free Online Course](https://www.datacamp.com/courses/intro-to-python-for-data-science) and/or [numpy Info Here - Chapter 2](https://notebooks.azure.com/jakevdp/libraries/PythonDataScienceHandbook/tree/notebooks?page=2)
